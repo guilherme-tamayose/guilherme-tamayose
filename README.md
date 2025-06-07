@@ -1,6 +1,6 @@
 Hi, I'm Gui 👋
 
-I'm a tech enthusiast who enjoys turning ideas into real-world solutions. I specialize in Python, SQL, and AWS — and I have a growing passion for full-stack web development. I'm currently working as a research assistant exploring Large Language Models (LLMs) alongside my professor.
+I'm a tech enthusiast who enjoys turning ideas into real-world solutions. I specialize in Python, SQL, and AWS, and I have a growing passion for full-stack web development. I'm currently working as a research assistant exploring Large Language Models (LLMs) alongside my professor.
 
 🔭 I’m currently researching LLMs and sharpening my full-stack skills  
 🌱 I’m currently learning full-stack development    
